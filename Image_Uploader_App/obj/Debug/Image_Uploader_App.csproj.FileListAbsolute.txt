@@ -1,0 +1,10 @@
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\bin\Debug\Image_Uploader_App.exe.config
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\bin\Debug\Image_Uploader_App.exe
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\bin\Debug\Image_Uploader_App.pdb
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\obj\Debug\Image_Uploader_App.csprojAssemblyReference.cache
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\obj\Debug\Image_Uploader_App.MainForm.resources
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\obj\Debug\Image_Uploader_App.Properties.Resources.resources
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\obj\Debug\Image_Uploader_App.csproj.GenerateResource.cache
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\obj\Debug\Image_Uploader_App.csproj.CoreCompileInputs.cache
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\obj\Debug\Image_Uploader_App.exe
+C:\All_Repos\Visual_Studio_Repos\Image_Uploader_App\Image_Uploader_App\obj\Debug\Image_Uploader_App.pdb
